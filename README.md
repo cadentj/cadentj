@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋
+
+"Network science researcher" or "quantative analyst" would be cool things to put here, but I'm still on the path of learning as a rising freshman at Northeastern University. Areas I have the most experience in are: web development, AI and machine learning, and reading documentation (?).  
+
+🔭 I’m currently working on leveraging Auto-GPT and to perform rapid and thorough research tasks. 
+🌱 I’m currently learning OCaml - or at least stepping back from Python and learning functional programming. 
+
 
 <!--
 **cadentj/cadentj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
