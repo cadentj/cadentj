@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on leveraging Auto-GPT and to perform research tasks. 
 - 🌱 I’m currently learning OCaml - or at least stepping back from Python into functional programming. 
 
+_Note: I have many repos but few readme-s_
 
 <!--
 **cadentj/cadentj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
