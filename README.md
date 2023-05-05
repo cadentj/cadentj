@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on leveraging Auto-GPT and to perform research tasks. 
 - 🌱 I’m currently learning OCaml - or at least stepping back from Python into functional programming. 
-- I've use often: ```.py```, ```.js```, ```.c```, and ```.java``` (also lots of React ⚛️)
+- 💡 I often use: ```.py```, ```.js```, ```.c```, and ```.java```
 
 _Note: I have many repos but few readme-s_
 
