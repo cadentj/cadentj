@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on leveraging Auto-GPT and to perform research tasks. 
 - 🌱 I’m currently learning OCaml - or at least stepping back from Python into functional programming. 
+- I've used: ```.java```, ```.py```, ```.js```, and ```.c``` (also lots of React ⚛️)
 
 _Note: I have many repos but few readme-s_
 
