@@ -1,6 +1,6 @@
 ### What's up! 🤟
 
-"Network science researcher" or "quantative analyst" would be cool things to put here, but I've got a long way to go as a freshman at Northeastern University. Areas I have the most experience in are: web development, AI and machine learning, and reading documentation (?).  
+"Network science researcher" or "quantative analyst" would be cool things to put here, but I've got a long way to go as a freshman at **Northeastern University**. Areas I have the most experience in are: **web development, AI and machine learning**, and reading documentation (?).  
 
 - 🔭 I’m currently working on leveraging Auto-GPT and to perform rapid and thorough research tasks. 
 - 🌱 I’m currently learning OCaml - or at least stepping back from Python and learning functional programming. 
