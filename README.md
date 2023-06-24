@@ -1,24 +1,9 @@
 ### What's up! 🤟
 
-"Network science researcher" or "quantative analyst" would be cool things to put here, but I've still got a long way to go as a freshman at **Northeastern University**. Areas I have the most experience in are: **web development, AI and machine learning**, and reading documentation (?).  
+I'm a rising freshman at **Northeastern University**. My 
 
-- 🔭 I’m currently working on leveraging Auto-GPT to perform research tasks. 
-- 🌱 I’m currently learning OCaml - or at least stepping back from Python into functional programming. 
-- 💡 I often use: ```.py```, ```.js```, ```.c```, and ```.java```
+I'm a first-year at Northeastern studying computer science and mathematics. With a breadth of professional experience in AI/ML research and applied methods, I'm eager to explore any subset of roles in those fields. 
 
-_Note: I have many repos but few readme-s_
-
-<!--
-**cadentj/cadentj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently learning machine learning methods on graphs in preparation for a RA position. 
+- 🌱 I'm looking to learn C++ by implementing some trading models and financial forecasts. 
+- 💡 I often use: ```.py``` and ```.js```
