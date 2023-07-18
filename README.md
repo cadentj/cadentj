@@ -6,4 +6,4 @@ I'm a first-year at Northeastern University studying computer science and mathem
 - 🌱 I'm diving into C++ for algo-trading. 
 - 💡 I often use: ```.py``` and ```.js```
 
-[Check out my portfolio 🔥](https://cadenjuang.me/)
+[Check out my portfolio 🔥](https://cadenjuang.me/) (WIP!)
