@@ -2,8 +2,8 @@
 
 I'm a first-year at Northeastern University studying computer science and mathematics. With a breadth of experience in AI/ML, I'm eager to explore any subset or combination of roles in those fields. 
 
-- 🔭 I'm currently researching graph machine learning methods in mobility resilience. 
-- 🌱 Diving in to ```C++```
+- 🔭 I'm currently researching deep learning methods for human mobility. 
+- 🌱 Exploring mechanistic interpretability.
 - 💡 I often use: ```.py``` and ```.js```
 
 [Check out my portfolio 🔥](https://cadenjuang.me/) (WIP!)
